@@ -1,4 +1,4 @@
-package tests.autoexam;
+package tests;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;

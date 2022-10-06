@@ -2,7 +2,7 @@
 <suite name="automationexercise">
     <test name="classlar">
         <classes>
-            <class name="tests.autoexam.Soru23"/>
+            <class name="tests.T3_LoginUserWithIncorrectEmailandPassword"/>
         </classes>
     </test>
 </suite>
